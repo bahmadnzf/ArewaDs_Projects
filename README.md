@@ -3,10 +3,10 @@ This repository documents my journey as a beginner in data science and machine l
 ##Visual representations of data using various Python libraries:
 
 What's Inside
-|Section            |                  Focus Area    | Key Topics                                                                                           | Tools & Libraries         |
+|Section            |                  Focus Area    | Key Topics                                                                                            | Tools & Libraries         |
 |-------------------|--------------------------------|------------------------------------------------------------------------------------------------------ |---------------------------|
 | Data Visualization| Visual representations of data | Basic plotting, Statistical visualizations, Interactive dashboards, Data communication best practices |Matplotlib, Seaborn, Plotly|
-| Data Analysis     | Hands-on analysis projects     | Exploratory Data Analysis, Data cleaning, Statistical analysis, Real-world case studies               |Pandas, NumPy, SciPy       | | Python Exercises  | Programming fundamentals       | Python syntax, NumPy computing, Pandas manipulation, Coding challenges                                |	Python 3.x, NumPy, Pandas | |	Data Science Introduction| Core concepts and theory| ML algorithms, DS terminology, Workflow methodology, Learning resources                         |Scikit-learn, Jupyter Notebooks|	
+| Data Analysis     | Hands-on analysis projects     | Exploratory Data Analysis, Data cleaning, Statistical analysis, Real-world case studies               |Pandas, NumPy, SciPy       | | Python Exercises  | Programming fundamentals       | Python syntax, NumPy computing, Pandas manipulation, Coding challenges                                |	Python 3.x, NumPy, Pandas| | Data Science       | Core concepts and theory       | ML algorithms, DS terminology, Workflow methodology, Learning resources                              |Scikit-learn            	 |
 			
 	
 🛠️ Technologies & Tools
