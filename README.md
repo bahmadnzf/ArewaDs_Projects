@@ -7,10 +7,8 @@ What's Inside
 |-------------------|--------------------------------|------------------------------------------------------------------------------------------------------ |---------------------------|
 | Data Visualization| Visual representations of data | Basic plotting, Statistical visualizations, Interactive dashboards, Data communication best practices |Matplotlib, Seaborn, Plotly|
 | Data Analysis     | Hands-on analysis projects     | Exploratory Data Analysis, Data cleaning, Statistical analysis, Real-world case studies               |Pandas, NumPy, SciPy       | 
-
-|Section            | Focus Area                     | Key Topics                                                                                            | Tools & Libraries         |
-|-------------------|--------------------------------|------------------------------------------------------------------------------------------------------ |---------------------------|
 | Python Exercises  | Programming fundamentals       |Python syntax, NumPy computing, Pandas manipulation, Coding challenges                                 |Python 3.x, NumPy, Pandas  | | Data Science      | Core concepts and theory       |ML algorithms, DS terminology, Workflow methodology, Learning resources                                |Scikit-learn               |
+| Data Science      | Core concepts and theory       |ML algorithms, DS terminology, Workflow methodology, Learning resources                                |Scikit-learn               |
 
 			
 	
